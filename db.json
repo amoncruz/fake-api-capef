@@ -1,0 +1,20 @@
+{
+    "banners": [
+      {
+        "id": 1,
+        "url":"https://cdn.pixabay.com/photo/2020/09/11/00/11/landscape-5561678_960_720.jpg"
+      },
+      {
+        "id": 2,
+        "url": "https://cdn.pixabay.com/photo/2020/08/23/14/55/castle-5511046_960_720.jpg"
+      },
+      {
+        "id": 3,
+        "url": "https://cdn.pixabay.com/photo/2017/09/07/16/50/acropolis-2725918_960_720.jpg"
+      },
+      {
+        "id": 4,
+        "url": "https://cdn.pixabay.com/photo/2020/09/05/12/38/landscape-5546444_960_720.jpg"
+      }
+    ]
+  }
